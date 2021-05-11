@@ -2,9 +2,11 @@
 
 **IN CONFIG.JSON DO NOT CHANGE ANY VARIABLE THE everyoneMention VARIABLE IS FOR THE EVERYONE MENTION WHEN A NEW GIVEAWAY OCCURS AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
 INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
-# Links
-- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCF9E-xef9jL9QgziZRDHKKQ)
-- [Support Server Link](https://discord.gg/REAW5VM)
+# My Links
+- 🔗 [Youtube Channel](https://www.youtube.com/c/G1ixz)
+- [Support Server Link](https://discord.gg/w7eCgRucPh)
+# Notice!
+- This isnt my project!
 # Copyright 
 Copyright 2020 © All RIghts are Reserved | If you are using any part of code please give me credits for the same. Thanks
 
@@ -17,5 +19,3 @@ IF YOU WANT A SCRIPT THAT PREVENTS THIS JOIN THE SERVER ABOVE AND DM 0_0#6666 TH
 MAKE A NEW ONE USING MY TUTORIAL :D``**
 ``IF YOU DO NOT USE A COMMAND EVERY HALF AN HOUR ON REPL.IT HOSTING THE BOT DIES, CAN BE REVIVED BY RESTARTING IT``
 
-# Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/ZeroDiscord/GiveawayBot)
